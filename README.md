@@ -1,5 +1,4 @@
-- I’m @baokun2115
-- 🌱 I’m currently learning python and html.
+
 
 
 <!---
