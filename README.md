@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on my own project<br>🌱 I’m currently learning Javascript (ReactJS)<br>⚡ Fun fact I can play guitar
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giabaotd/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17069144) 
